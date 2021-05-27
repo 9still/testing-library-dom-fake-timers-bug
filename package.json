@@ -6,18 +6,13 @@
   "author": "alexkrolick",
   "main": "src/index.js",
   "scripts": {
-    "test": "react-scripts test"
+    "test": "npx react-scripts test"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
   "dependencies": {
-    "@testing-library/dom": "latest",
-    "@testing-library/jest-dom": "latest",
-    "@testing-library/react": "latest",
-    "jest": "latest",
-    "react": "latest",
-    "react-dom": "latest",
+    "@testing-library/dom": "7.29.5",
     "react-scripts": "latest"
   }
 }
