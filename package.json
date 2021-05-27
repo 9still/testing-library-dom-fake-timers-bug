@@ -12,7 +12,7 @@
     "extends": "react-app"
   },
   "dependencies": {
-    "@testing-library/dom": "7.29.5",
+    "@testing-library/dom": "latest",
     "react-scripts": "latest"
   }
 }
